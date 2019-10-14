@@ -18,10 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ## My Learnings
 •	Created a Stateless Widgets
+
 •	Created Containers to lay out the UI
+
 •	Created Columns and Rows to position UI elements
+
 •	Added custom fonts
+
 •	Added Material icons
+
 •	Styled Text widgets
+
 •	Used and implemented Flutter Documentation
 
