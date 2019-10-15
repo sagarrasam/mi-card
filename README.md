@@ -6,7 +6,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 This project is a basic  Flutter application. This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
 
-# Starter Pack 
+## Starter Pack 
 
 https://github.com/londonappbrewery/mi_card_flutter 
 
